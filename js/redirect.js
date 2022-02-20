@@ -1,2 +1,2 @@
 
-  location.href = "https://www.youtube.com/watch?v=J04uNivXGHs";
+  location.href = "https://www.luisgabriel.tk/404.html";
